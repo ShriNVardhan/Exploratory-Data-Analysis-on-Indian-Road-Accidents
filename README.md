@@ -1,7 +1,22 @@
-# Exploratory-Data-Analysis-on-Indian-Road-Accidents
+# Exploratory Data Analysis on Indian Road Accidents
 
-The project involved conducting a thorough Exploratory Data Analysis (EDA) on a comprehensive dataset compiled from manual records of road traffic accidents spanning the years 2017–2022. 
-This project was done entirely on Python using libraries like Pandas, Matplotlib and Seaborn.
+## Overview
 
-• Utilized Pandas for data loading, cleaning, and exploration to gain insights into the structure and characteristics of the dataset.
-• Employed Matplotlib and Seaborn for creating visually appealing plots and charts to identify patterns, trends, and anomalies within the accident data.
+The Exploratory Data Analysis (EDA) on Indian Road Accidents project involves a comprehensive analysis of a dataset compiled from manual records of road traffic accidents spanning the years 2017–2022. The entire analysis is conducted using Python, utilizing libraries such as Pandas, Matplotlib, and Seaborn.
+
+## Key Highlights
+
+- **Data Loading and Cleaning:**
+  - Utilized Pandas for efficient data loading, cleaning, and preparation.
+  - Gained insights into the structure and characteristics of the dataset.
+
+- **Visualization with Matplotlib and Seaborn:**
+  - Employed Matplotlib and Seaborn to create visually appealing plots and charts.
+  - Identified patterns, trends, and anomalies within the accident data.
+
+## Technologies Used
+
+- Python
+- Pandas
+- Matplotlib
+- Seaborn
